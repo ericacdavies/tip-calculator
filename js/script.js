@@ -5,3 +5,4 @@ function tipCalculate(){
   //as defined in the inline javascript
   //on index.html
 }
+//this is my tip calculator
